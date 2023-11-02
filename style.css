@@ -1,0 +1,31 @@
+/* Last rule
+p{
+    color: red;
+}
+p{
+    color: green;
+}
+p{
+    color: blue;
+} */
+/* SPECIFICITY */
+/* *{
+    color: red !important;
+}
+p{
+    color: green;
+}
+p#intro{
+    color: blue;
+} */
+body{
+    font-family: arial,verdana, sans-serif;
+    color: blueviolet;
+    padding: 10px;
+    border: 1px solid red;
+}
+.page{
+    border: 1px solid grey;
+    color: inherit;
+    padding: 10px;
+}
